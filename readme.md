@@ -5,7 +5,7 @@ Free concrete5 package which adds User Selector Attribute to concrete5.
 ## How to install
 
 - Download entire file from GitHub.
-- Create a foleder `package/user_selector_attribute`
+- Create a folder `package/user_selector_attribute`
 - Place all files underneath the folder above
 - Login to your concrete5 as an admin
 - Visit `Extend concrete5` page on Dashboard
